@@ -1,25 +1,38 @@
 <HTML>
 <head>
-<tillte>
+<title>
 Người
-</tillte>
-Thông Tin Cá Nhân
+</title>
+<h1>
+<p style="color:red;" title="I'm a header">Thông Tin Cá Nhân </p>
+</h1>
 </head>
 <body>
-<B><h2>Nguyễn Văn A <h2></B>
 
-<h3>
+<B>
+<h2>
+<p style="color:blue;" title="I'm a tooltip">Nguyễn Văn A </p>
+</h2>
+</B>
+
+<p>
 Địa chỉ : Hà Nội <br>
 MSSV: 215226748 <br>
-<a href="https://www.facebook.com/mt.quynh133">Nguyễn Văn A</a>
-</h3>
+<a href="https://www.facebook.com/mt.quynh133">Nguyễn Văn A</a> <br>
+<img src=" 278392138_1172509313564769_3335252629827374781_n.jpg" alt="Anh A">
+</p>
 
-<B><h2>Nguyễn Văn B <h2></B>
+<B>
+<h2>
+<p style="color:blue; title="I'm a tooltip">Nguyễn Văn B</p> 
+</h2>
+</B>
 
-<h3>
+<p>
 Địa chỉ : TPHCM <br>
 MSSV: 215226748 <br>
-< a href="https://www.facebook.com/mt.quynh133">Nguyễn Văn B</a>
-</h3>
+<a href="https://www.facebook.com/mt.quynh133">Nguyễn Văn B</a> <br>
+<img src="278392138_1172509313564769_3335252629827374781_n.jpg" alt="Anh B">
+</p>
 
 </body>
