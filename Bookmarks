@@ -1,0 +1,26 @@
+<html>
+<head>
+Bookmarks
+</head>
+<body>
+<p><a href="https://github.com" >
+GitHub
+</a></p>
+<p><a href="https://github.com">
+<img src="https://avatars.githubusercontent.com/u/101971503?v=4" alt="avt GitHub" style="width:50px; height:75px;">
+</a></p>
+<p>
+<a href="mailto:trucquynh12303@gmail.com">
+Sent mail
+</a>
+</p>
+<p>
+<button onclick="document.location='https://github.com/Tquynh1203/Tquynh1203/new/main'" >
+GitHub
+</button>
+</p>
+<p>
+<a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_button_element" title="HTML links">
+W3school
+</a>
+</p>
