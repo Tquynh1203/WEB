@@ -1,6 +1,10 @@
 <html>
 <head>
-Bookmarks
+<h1>Bookmarks</h1>
+<title>
+My Page Title
+</title>
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
 </head>
 <body>
 <p><h3 id="GH"> Link Git</h3>
