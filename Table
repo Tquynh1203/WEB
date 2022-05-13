@@ -1,1 +1,19 @@
-
+<HTML>
+<head>
+<title>
+Table
+</title>
+<style>
+table, td, th
+{
+border: 1px solid black
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
+<tr> 
+<td> Companny </td>
+<td> Contest </td>
+<td> Winner's name</td>
+</tr>
