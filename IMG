@@ -1,9 +1,11 @@
 <HTML>
 <head>
-<body>
-style
+style:
 {
 backgound-color: yellow;
 width:60px;
 height: 70px
 }
+</head>
+<body>
+<img="" src="" alt="" >
