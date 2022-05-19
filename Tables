@@ -13,6 +13,7 @@ background-color: blue;
 </head>
 <body>
 <table style="width:100%">
+<caption> Test </caption>
 <tr>
 <th> m</th>
 <th> n</th>
