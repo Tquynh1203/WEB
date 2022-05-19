@@ -1,2 +1,27 @@
 <html>
 <head>
+<style>
+table, td, th
+{
+border: 1px solid blue;
+}
+p
+{
+background-color: blue;
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
+<tr>
+<th> m</th>
+<th> n</th>
+</tr>
+<tr>
+<th> o </th>
+<th> p </th>
+</tr>
+</table>
+<p>
+
+
