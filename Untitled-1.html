@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="background-color: rgb(211, 203, 205) ;">
     <head>
         <meta charset="UTF-8">
         <title> 
@@ -11,9 +11,6 @@
         <h2>Tiêu đề 1</h2>
         <h3>Tiêu đề 1</h3>
         <h4>Tiêu đề 1</h4>
-        <div>
-            
-        </div>
 
         <!-- The Form-->
         <form action="sign in" method="post" name="" style="background-color: yellow;">
@@ -30,22 +27,14 @@
 
         <!--Thẻ ol li-->
         <ol>
-            <li>
-                Văn học
-            </li>
-            <li>
-                Toán học 
-            </li>
+            <li>Văn học</li>
+            <li>Toán học </li>
         </ol>
 
         <!--Thẻ ul li-->
         <ul>
-            <li>
-                Lịch Sử
-            </li>
-            <li>
-                Hóa Học
-            </li>
+            <li>Lịch Sử</li>
+            <li>Hóa Học</li>
         </ul>
 
         <!--Dàn Trang-->
@@ -59,5 +48,87 @@
         <div id="footer" style="background-color: blue;">
             Footer của trang
         </div>
+
+        <!--Tạo Menu bằng dl dt dd-->
+        <dl>
+          <dt>
+            Môn Tự Nhiên
+            <dd>Lí </dd>
+            <dd>Hóa</dd>
+            <dd>Sinh</dd>
+          </dt>
+          <dt>
+            Môn Xã Hội
+            <dd>GDCD</dd>
+            <dd>Địa</dd>
+            <dd>Sử</dd>
+          </dt>
+        </dl>
+
+        <!--Tạo Href-->
+        <a link rel="stylesheet" href="https://www.facebook.com/t.q.12303/">
+          Click 
+        </a>
+        <br>
+        <a link rel="stylesheet" href="https://www.facebook.com/t.q.12303/">
+          <img src=".JPG" alt="Ảnh" width="400px" height="200px">
+        </a>
+
+        <!--Tạo bảng-->
+        <table border="1px solix">
+          <caption align="bottom">Tên Bảng</caption>
+          <tr style="background-color: rgb(201, 112, 127);">
+            <td>STT</td>
+            <td>Tên</td>
+            <td>Địa chỉ</td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Nguyễn Văn A</td>
+            <td>56-Mê Linh</td>
+          </tr>
+        </table>
+
+        <!--Bài tập 1-->
+        <table border="10px">
+          <caption>Bài 1</caption>
+          <tr>
+            <td rowspan="2">Họ tên</td>
+            <td rowspan="2">Giới Tính</td>
+            <td colspan="3">Kết quả thi</td>
+          </tr>
+          <tr>
+            <td>Toán</td>
+            <td>Lí</td>
+            <td>Hóa</td>
+          </tr>
+          <tr>
+            <td>Trần Đức Anh</td>
+            <td>Nam</td>
+            <td>7.25</td>
+            <td>8.0</td>
+            <td>3.75</td>
+          </tr>
+          <tr>
+            <td>Mai Đức Hiếu</td>
+            <td>Nam</td>
+            <td>7.0</td>
+            <td>9.0</td>
+            <td>4.75</td>
+          </tr>
+        </table>
+
+        <!--Bài 2-->
+        <form action="sign in" method="post" name="">
+          <h2>Form Đăng Kí</h2><br>
+          Họ Tên <br>
+          <input type="text" name="Họ Tên"> <br>
+          Ngày Sinh <br>
+          <input type="date" name="Ngày Sinh"> <br>
+          Địa Chỉ <br>
+          <input type="text" name="Địa Chỉ"> <br>
+          <input type="reset" name="Reset">
+          <input type="submit" name="Submit"> <br>
+        </form>
     </body>
 </html>    
