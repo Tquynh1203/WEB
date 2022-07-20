@@ -1,0 +1,21 @@
+.title-head
+{
+    background-color: rgb(235, 235, 134);
+}
+.title-body
+{
+    background-color: rgb(92, 36, 36);
+    height: 30px;
+}
+.title-left
+{
+    background-color: rgb(98, 98, 241);
+    width: 204px;
+    height: 150px;
+}
+.title-right
+{
+    background-color: orange;
+    height: 100px;
+    width: 204px;
+}
