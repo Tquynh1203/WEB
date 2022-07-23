@@ -1,21 +1,47 @@
-.title-head
+#header
 {
-    background-color: rgb(235, 235, 134);
+    background-color: rgb(240, 169, 83);
+    height: 100px;
+    border: 1px solid red;
 }
-.title-body
+#header h1
 {
-    background-color: rgb(92, 36, 36);
+    color: white;
+}
+#header h1 label
+{
+    color: black;
+}
+#menu
+{
     height: 30px;
+    background-color: brown;
+    color: white;
 }
-.title-left
+#content
 {
-    background-color: rgb(98, 98, 241);
-    width: 204px;
+    background-color: pink;
     height: 150px;
+    border:2px solid brown;
 }
-.title-right
+#content #content-left
 {
+    background-color: blue;
+    color: white;
+    height: 150px;
+    width: 204px;
+    float: left;
+}
+#content #content-right
+{
+    color: white;
     background-color: orange;
     height: 100px;
-    width: 204px;
+    padding-left: 204px;
+}
+#footer
+{
+    background-color: blueviolet;
+    color: black;
+    height: 70px;
 }
